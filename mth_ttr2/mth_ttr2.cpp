@@ -2,9 +2,9 @@
 Title: Chapter 5 Exerise 17 - Math Tutor
 File Name: mth_ttr.cpp
 Programmer: Nicholas Woolston
-Date: 28/03/2025 (DD/MM/YYYY)
-Requirements: Write code that generates 2 random numbers to be added together. Display the numbers to the user and put a break in the code while the user
-gets the answer. Have the answer be displayed after the user presses button.
+Date: 06/04/2025 (DD/MM/YYYY)
+Requirements: Write code that prompts for 4 different operations. Have the user chose one then display the two numbers with the appropriate operator.
+Have the User answer the question and verify if it is incorrect, or correct. Display appropriate results. 
 */
 
 #include <iostream>
